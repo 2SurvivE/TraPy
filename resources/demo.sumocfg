@@ -1,0 +1,13 @@
+<configuration>
+    <input>
+        <net-file value="demo.net.xml"/>
+        <route-files value="demo.rou.xml"/>
+
+    </input>
+    <!--
+    <time>
+        <begin value="0"/>
+        <end value="86400"/>
+    </time>
+    -->
+</configuration>
